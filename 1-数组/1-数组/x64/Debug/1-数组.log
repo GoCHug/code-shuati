@@ -1,3 +1,2 @@
-﻿  移除元素.cpp
-C:\gch_git\代码随想录\1-数组\1-数组\移除元素.cpp(37,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  1-数组.vcxproj -> C:\gch_git\代码随想录\1-数组\x64\Debug\1-数组.exe
+﻿  6.螺旋矩阵II.cpp
+  1-数组.vcxproj -> C:\gch\code-shuati\1-数组\x64\Debug\1-数组.exe
