@@ -15,6 +15,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="移除元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="二分查找.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
