@@ -1,0 +1,4 @@
+﻿  3.替换空格（双指针）.cpp
+C:\gch\code-shuati\4-字符串\4-字符串\4-字符串\3.替换空格（双指针）.cpp(9,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\gch\code-shuati\4-字符串\4-字符串\4-字符串\3.替换空格（双指针）.cpp(15,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  4-字符串.vcxproj -> C:\gch\code-shuati\4-字符串\4-字符串\x64\Debug\4-字符串.exe
