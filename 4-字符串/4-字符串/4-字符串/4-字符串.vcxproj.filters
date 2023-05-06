@@ -24,5 +24,14 @@
     <ClCompile Include="3.替换空格（双指针）.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="4.翻转字符串里的单词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.左旋转字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.实现strStr()（KMP）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
