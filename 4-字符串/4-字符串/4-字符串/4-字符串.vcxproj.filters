@@ -33,5 +33,8 @@
     <ClCompile Include="6.实现strStr()（KMP）.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="7.重复的子字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
