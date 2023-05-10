@@ -145,7 +145,7 @@
     <ClCompile Include="6.实现strStr()（KMP）.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="7.重复的子字符串.cpp" />
+    <ClCompile Include="7.重复的子字符串（KMP）.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
