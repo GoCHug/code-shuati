@@ -66,5 +66,23 @@
     <ClCompile Include="19.最大二叉树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="21.合并二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22.二叉搜索树中的搜索.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23.验证二叉搜索树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24.二叉搜索树的最小绝对值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25.二叉搜索树中的众数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26.二叉树的最近公共祖先.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
