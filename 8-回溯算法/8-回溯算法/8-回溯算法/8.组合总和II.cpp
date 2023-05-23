@@ -7,7 +7,7 @@ class Solution {
 private:
     vector<vector<int>> result;
     vector<int> path;
-    void backtracking(vector<int>& candidates, int target, int sum, int startIndex , vector<bool>& used) {
+    void backtracking(vector<int>& candidates, int target, int sum, int startIndex, vector<bool>& used) {
         if (sum == target) {
             result.push_back(path);
             return;
