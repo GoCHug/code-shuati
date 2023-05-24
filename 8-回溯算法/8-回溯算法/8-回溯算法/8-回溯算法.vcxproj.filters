@@ -51,5 +51,11 @@
     <ClCompile Include="16.全排列II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="19.重新安排行程.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20.N皇后.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
