@@ -57,5 +57,8 @@
     <ClCompile Include="20.N皇后.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="21.解数独.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
