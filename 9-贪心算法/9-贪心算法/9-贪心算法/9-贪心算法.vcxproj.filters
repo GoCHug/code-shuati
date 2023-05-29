@@ -36,5 +36,17 @@
     <ClCompile Include="9.K次取反后最大化的数组和.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11.加油站.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12.分发糖果.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13.柠檬水找零.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14.根据身高重建队列.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
