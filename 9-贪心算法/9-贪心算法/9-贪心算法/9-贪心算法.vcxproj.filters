@@ -60,5 +60,11 @@
     <ClCompile Include="20.合并区间.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="22.单调递增的数字.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23.监督二叉树.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
