@@ -24,5 +24,17 @@
     <ClCompile Include="4.使用最小花费爬楼梯.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="6.不同路径.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.不同路径II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.整数拆分.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.不同的二叉搜索树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
