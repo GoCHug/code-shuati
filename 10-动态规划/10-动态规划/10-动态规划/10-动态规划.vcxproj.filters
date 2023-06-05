@@ -36,5 +36,17 @@
     <ClCompile Include="9.不同的二叉搜索树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11.0-1背包理论（一）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13.分割等和子集.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12.0-1背包理论（二）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14.最后一块石头的重量II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
